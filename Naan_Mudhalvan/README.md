@@ -1,2 +1,2 @@
 # Naan_Mudalvan
-music application using Django framework - Rickydavidson - 4303 - Licet.
+music application using Django framework - AyeshaFathima A H - 4013 - Licet.
